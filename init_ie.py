@@ -15,9 +15,10 @@ from pynput.keyboard import Key, Controller
 
 
 def start():
-    driver=webdriver.ie(executable_path='C:\\Users\\ENSX-PC\\Desktop\\workspace\\Enabling\\internet_explorer\\IEDriverServer.exe')
+    path
+    driver=webdriver.ie(executable_path='internet_explorer\\IEDriverServer.exe')
     return driver
 
 
-start()
+
 

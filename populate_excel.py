@@ -14,7 +14,7 @@ import json
 import initchrome
 from xlwt import Workbook
 # import
-import samplevalues
+import generate_sample_values_excel
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from datetime import date
@@ -79,40 +79,40 @@ def populate_excel(limit):
             decision=random.randint(1,2)
             if decision==1:
                 email = sheet.cell(row=i, column=1)
-                email.value = samplevalues.generate_random_email()
+                email.value = generate_sample_values_excel.generate_random_email()
 
                 first_name = sheet.cell(row=i, column=2)
-                first_name.value = samplevalues.generate_random_first_name()
+                first_name.value = generate_sample_values_excel.generate_random_first_name()
 
                 last_name = sheet.cell(row=i, column=3)
-                last_name.value = samplevalues.generate_random_last_name()
+                last_name.value = generate_sample_values_excel.generate_random_last_name()
 
                 adress1 = sheet.cell(row=i, column=4)
-                adress1.value = samplevalues.generate_random_adress()
+                adress1.value = generate_sample_values_excel.generate_random_adress()
 
                 adress2 = sheet.cell(row=i, column=5)
-                adress2.value = samplevalues.generate_random_adress()
+                adress2.value = generate_sample_values_excel.generate_random_adress()
 
                 city = sheet.cell(row=i, column=6)
-                city.value = samplevalues.generate_random_city()
+                city.value = generate_sample_values_excel.generate_random_city()
 
                 zip_code = sheet.cell(row=i, column=7)
-                zip_code.value = samplevalues.generate_random_zipcodes()
+                zip_code.value = generate_sample_values_excel.generate_random_zipcodes()
 
                 phone_number = sheet.cell(row=i, column=8)
-                phone_number.value = str(samplevalues.generate_phone_number())
+                phone_number.value = str(generate_sample_values_excel.generate_phone_number())
 
                 card_number = sheet.cell(row=i, column=9)
-                card_number.value = samplevalues.generate_random_card_number()
+                card_number.value = generate_sample_values_excel.generate_random_card_number()
 
                 card_name = sheet.cell(row=i, column=10)
-                card_name.value = samplevalues.generate_random_name()
+                card_name.value = generate_sample_values_excel.generate_random_name()
 
                 expiry_date = sheet.cell(row=i, column=11)
-                expiry_date.value = samplevalues.generate_random_date()
+                expiry_date.value = generate_sample_values_excel.generate_random_date()
 
                 no_of_keys = sheet.cell(row=i, column=12)
-                no_of_keys.value = samplevalues.generate_random_quantity(20)
+                no_of_keys.value = generate_sample_values_excel.generate_random_quantity(20)
 
                 actual_result = sheet.cell(row=i, column=13)
                 actual_result.value = "No Result"
@@ -121,40 +121,40 @@ def populate_excel(limit):
                 expected_result.value = "Pass"
             else:
                 email = sheet.cell(row=i, column=1)
-                email.value = samplevalues.generate_bad_email()
+                email.value = generate_sample_values_excel.generate_bad_email()
 
                 first_name = sheet.cell(row=i, column=2)
-                first_name.value = samplevalues.generate_random_first_name()
+                first_name.value = generate_sample_values_excel.generate_random_first_name()
 
                 last_name = sheet.cell(row=i, column=3)
-                last_name.value = samplevalues.generate_random_last_name()
+                last_name.value = generate_sample_values_excel.generate_random_last_name()
 
                 adress1 = sheet.cell(row=i, column=4)
-                adress1.value = samplevalues.generate_random_adress()
+                adress1.value = generate_sample_values_excel.generate_random_adress()
 
                 adress2 = sheet.cell(row=i, column=5)
-                adress2.value = samplevalues.generate_random_adress()
+                adress2.value = generate_sample_values_excel.generate_random_adress()
 
                 city = sheet.cell(row=i, column=6)
-                city.value = samplevalues.generate_bad_city()
+                city.value = generate_sample_values_excel.generate_bad_city()
 
                 zip_code = sheet.cell(row=i, column=7)
-                zip_code.value = samplevalues.generate_bad_zip_code()
+                zip_code.value = generate_sample_values_excel.generate_bad_zip_code()
 
                 phone_number = sheet.cell(row=i, column=8)
-                phone_number.value = str(samplevalues.generate_bad_phone_number())
+                phone_number.value = str(generate_sample_values_excel.generate_bad_phone_number())
 
                 card_number = sheet.cell(row=i, column=9)
-                card_number.value = samplevalues.generate_random_card_number()
+                card_number.value = generate_sample_values_excel.generate_random_card_number()
 
                 card_name = sheet.cell(row=i, column=10)
-                card_name.value = samplevalues.generate_random_name()
+                card_name.value = generate_sample_values_excel.generate_random_name()
 
                 expiry_date = sheet.cell(row=i, column=11)
-                expiry_date.value = samplevalues.generate_bad_date()
+                expiry_date.value = generate_sample_values_excel.generate_bad_date()
 
                 no_of_keys = sheet.cell(row=i, column=12)
-                no_of_keys.value = samplevalues.generate_random_quantity(20)
+                no_of_keys.value = generate_sample_values_excel.generate_random_quantity(20)
 
                 actual_result = sheet.cell(row=i, column=13)
                 actual_result.value = "No Result"

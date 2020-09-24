@@ -5,4 +5,3 @@ result = hashlib.md5(b'v_value')
 
 
 print("The byte equivalent of hash is : ", end="")
-print

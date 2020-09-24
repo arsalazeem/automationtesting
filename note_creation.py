@@ -1,6 +1,6 @@
 import android_login
 import create_notes
-import locktill_check_empty_screen
+import locktill_android_check_empty_screen
 import variable_names
 import post_data
 
@@ -14,7 +14,7 @@ exception = "none"
 android_login.valid_login("arsal11211@yopmail.com", "12345678", "654321")
 # creating a new note
 driver = create_notes.create_notes(1)
-temp_result = locktill_check_empty_screen.check_empty(driver)
+temp_result = locktill_android_check_empty_screen.check_empty(driver)
 if temp_result:
     result = variable_names.failed
     fail = 1

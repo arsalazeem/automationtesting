@@ -17,7 +17,7 @@ import initchrome
 def start():
     opts = Options()
     opts.headless = True
-    firefox_driver= webdriver.Firefox(options=opts, executable_path='C:\\Users\\ENSX-PC\\Desktop\\workspace\\Enabling\\firefox\\geckodriver.exe')
+    firefox_driver= webdriver.Firefox(options=opts, executable_path='firefox\\geckodriver.exe')
     return firefox_driver
 
 
