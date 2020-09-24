@@ -1,0 +1,296 @@
+1593674691201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARSALA~1\\AppData\\Local\\Temp\\rust_mozprofile9LlEm3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593674696157	Marionette	INFO	Listening on port 53041
+1593674696639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593674712503	Marionette	INFO	Stopped listening on port 53041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593674947184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARSALA~1\\AppData\\Local\\Temp\\rust_mozprofile9ZbUJS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593674951289	Marionette	INFO	Listening on port 53244
+1593674951395	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593675372720	Marionette	INFO	Stopped listening on port 53244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593675293725	Marionette	INFO	Listening on port 53541
+1593675293932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593675368246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARSALA~1\\AppData\\Local\\Temp\\rust_mozprofileDSRo5J"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593675373366	Marionette	INFO	Listening on port 53654
+1593675373696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593675537338	Marionette	INFO	Stopped listening on port 53654
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598024757988	geckodriver	INFO	Listening on 127.0.0.1:60582
+1598598379676	geckodriver	INFO	Listening on 127.0.0.1:62233
+1598598443476	geckodriver	INFO	Listening on 127.0.0.1:62262
+1598599121565	geckodriver	INFO	Listening on 127.0.0.1:62483
+1598599124640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENSX-PC\\AppData\\Local\\Temp\\rust_mozprofileMmJKlk"
+1598599128331	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1598599128636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598599128636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598599128636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598599128636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598599135025	Marionette	INFO	Listening on port 62491
+1598599135086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598599763392	Marionette	INFO	Stopped listening on port 62491
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileGZdNPW"
+1598599155518	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1598599155667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598599155667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598599155667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598599155667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598599158568	Marionette	INFO	Listening on port 62564
+1598599159067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://blog.testproject.io/wp-includes/js/jquery/jquery-migrate.min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://blog.testproject.io/2019/07/16/web-ui-testing-python-pytest-selenium-webdriver/, line 164: ReferenceError: jQuery is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://blog.testproject.io/wp-content/plugins/add-search-to-menu/public/js/ivory-search.js, line 71: ReferenceError: jQuery is not defined
+JavaScript error: https://blog.testproject.io/wp-content/plugins/i-recommend-this/js/dot_irecommendthis.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://blog.testproject.io/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/js/form-submission-helpers.min.js, line 1: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://sjrtp8-cdn.marketo.com/rtp-api/v1/rtp.js?aid=outsystems, line 5: TypeError: aj[aG].getTracker(...) is undefined
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.blazemeter.com/blog/how-to-set-up-your-automated-functional-gui-tests-with-selenium-webdriver/, line 1: SyntaxError: expected expression, got ')'
+JavaScript error: https://www.blazemeter.com/blog/how-to-set-up-your-automated-functional-gui-tests-with-selenium-webdriver/, line 37: SyntaxError: missing ) after argument list
+JavaScript error: https://s.adroll.com/j/roundtrip.js, line 79: TypeError: a.__adroll.render_pixel_code is not a function
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://dev.to/tonetheman/responsive-testing-with-selenium-and-python-56nl, line 1029: SyntaxError: expected expression, got '.'
+[Child 15656, MediaDecoderStateMachine #1] WARNING: 7610fa9040 Can't get cubeb context!: file z:/task_1579288126/build/src/dom/media/AudioStream.cpp, line 285
+[Child 15656, MediaDecoderStateMachine #1] WARNING: Decoder=76193a8c00 [OnMediaSinkAudioError]: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3689
+[Child 15656, MediaDecoderStateMachine #1] WARNING: Decoder=76193a8c00 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 15656, MediaDecoderStateMachine #1] WARNING: 761a30cdc0 Can't get cubeb context!: file z:/task_1579288126/build/src/dom/media/AudioStream.cpp, line 285
+[Child 15656, MediaDecoderStateMachine #1] WARNING: Decoder=76193a4c00 [OnMediaSinkAudioError]: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3689
+[Child 15656, MediaDecoderStateMachine #1] WARNING: 76193f24c0 Can't get cubeb context!: file z:/task_1579288126/build/src/dom/media/AudioStream.cpp, line 285
+[Child 15656, MediaDecoderStateMachine #1] WARNING: Decoder=76193a4c00 [OnMediaSinkAudioError]: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3689
+[Child 15656, MediaDecoderStateMachine #1] WARNING: 76193c7340 Can't get cubeb context!: file z:/task_1579288126/build/src/dom/media/AudioStream.cpp, line 285
+[Child 15656, MediaDecoderStateMachine #1] WARNING: Decoder=7619302c00 [OnMediaSinkAudioError]: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3689
+[Child 15656, MediaDecoderStateMachine #1] WARNING: 7625436d00 Can't get cubeb context!: file z:/task_1579288126/build/src/dom/media/AudioStream.cpp, line 285
+[Child 15656, MediaDecoderStateMachine #1] WARNING: Decoder=761a32f800 [OnMediaSinkAudioError]: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3689
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler rJavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1598602686229	Marionette	INFO	Stopped listening on port 63270
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+otocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [ChiJavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messageJavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+ late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1598602685837	Marionette	INFO	Stopped listening on port 62564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+NFO	Listening on port 63388
+1598601900753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+d extension permission: networkStatus
+1598601958540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598601958541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598601958541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598601958541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598601960687	Marionette	INFO	Listening on port 63423
+1598601960917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1598601970647	Marionette	INFO	Stopped listening on port 63423
+1598602034860	geckodriver	INFO	Listening on 127.0.0.1:63437
+1598602037893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENSX-PC\\AppData\\Local\\Temp\\rust_mozprofilepASnF4"
+1598602038478	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1598602038621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598602038621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598602038622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598602038622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598602040869	Marionette	INFO	Listening on port 63445
+1598602041122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598602060803	geckodriver	INFO	Listening on 127.0.0.1:63469
+1598602063839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENSX-PC\\AppData\\Local\\Temp\\rust_mozprofiletKf2gQ"
+1598602064419	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1598602064564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598602064564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598602064565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598602064565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598602066776	Marionette	INFO	Listening on port 63478
+1598602067036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598602077007	Marionette	INFO	Stopped listening on port 63478
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598602082705	geckodriver	INFO	Listening on 127.0.0.1:63502
+1598602085750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENSX-PC\\AppData\\Local\\Temp\\rust_mozprofileFiOWZ9"
+1598602086333	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1598602086473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598602086473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598602086473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598602086474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598602088809	Marionette	INFO	Listening on port 63510
+1598602088956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1598604832017	Marionette	INFO	Stopped listening on port 63510
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+F"
+1598602227531	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1598602227682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598602227682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598602227682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598602227682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1598602229929	Marionette	INFO	Listening on port 63549
+1598602230112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598602248725	Marionette	INFO	Stopped listening on port 63549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pData\\Local\\Temp\\rust_mozprofileXijxTc"
+*** You are running in headless mode.
+1598602234060	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1598602234206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598602234206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598602234206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598602234206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598602236700	Marionette	INFO	Listening on port 63581
+1598602237046	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
